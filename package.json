@@ -1,0 +1,20 @@
+{
+  "name": "belleza",
+  "version": "1.0.0",
+  "description": "belleza",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "julio ricardo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemailer": "^6.4.2",
+    "pug": "^2.0.4",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "morgan": "^1.9.1"
+  }
+}
